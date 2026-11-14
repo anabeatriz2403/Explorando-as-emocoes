@@ -31,14 +31,9 @@ Promover o aprendizado emocional de forma lúdica e interativa, utilizando eleme
 - Design narrativo (Storytelling).
 - Criação de mecânicas interativas.
 - Ilustração vetorial.
-
-## Imagens do projeto
-
-*Adicione aqui capturas de tela do jogo e dos personagens.*
-
-## Como executar
-
-*Adicione instruções e o link para jogar após publicar a versão exportada.*
+  
+##Teste aqui
+https://projetocreative.itch.io/explorando-as-emocoes
 
 ## Autoria
 
